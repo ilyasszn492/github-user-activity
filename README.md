@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+**Project Page:** [GitHub Repo](https://github.com/ilyasszn492/github-user-activity)
+
 **Task Tracker** is a command-line tool to track and manage your tasks. You can add, update, delete tasks, mark them as in-progress or done, and list tasks by status. Tasks are stored in a JSON file in the project directory.
 
 ## Features
@@ -39,4 +41,4 @@ task-cli list          # all tasks
 task-cli list todo     # todo tasks
 task-cli list in-progress
 task-cli list done
-https://github.com/ilyasszn492/github-user-activity
+
